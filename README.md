@@ -1,15 +1,40 @@
-## Please when ready add your teams application URL or IP to the repository description. This will help with grading. Teams are expected to keep this value up to date.
+# SafetyHub
 
-## Please do the following steps before completing Milestone 0.
-1. Change the name of the repository. All that needs to change is the NN to your respective team number. Team numbers whose value is less than 10, please pad with a 0. Ex team 1 is Team01 team 11 is Team11. Please make sure to also remove the username from the repository as well. Teams with incorrectly name repository will have points deducted from their milestone 0 grades.
-      - Please follow the naming convention assigned by your instructor.
+A public-safety web app for tracking emergency events across California, built to help disaster preparedness. Departments can enter real-time alert metrics through the interface, and the app displays them to users.
 
-1. PLEASE REMOVE THE USERNAME FROM THE REPOSITORY NAME!!!
+Built as a team project at San Francisco State University (May 2023).
 
-2. Add ALL members of your team to this repository. For it to count, they must ACCEPT the invite.
+## My Role
 
-3. Fill out the table below
+Front-End Lead on a full-stack team. I led front-end development, including:
 
+- Building the user interface in **React** and **TypeScript**
+- Creating the form where departments enter real-time alert metrics
+- Scoping requirements and testing the design with 2 focus groups (4 participants), then improving text legibility and enlarging the map area for mobile devices
+- Usability and unit testing
+- Writing the project documentation for handoff at final delivery and launch
+
+## Tech Stack
+
+- **Front end:** React, TypeScript
+- **Back end / database:** Prisma, TypeScript
+
+## Getting Started
+
+```bash
+git clone [repo URL]
+cd [project folder]
+npm install
+npm start
+```
+
+[Adjust these commands and add any environment setup the project needs.]
+
+## Documentation
+
+https://github.com/carmelodz/SafetyHub-Full-Web-App/tree/main/Milestones/M5
+
+## Team
 
 | Student Name | Student Email | GitHub Username |
 |    :---:     |     :---:     |     :---:       |
@@ -20,4 +45,7 @@
 | Sumith SHRESTHA     | sshrestha12@sfsu.edu        | [SumithStha](https://github.com/SumithStha)                |
 | Adrian VAZQUEZ      | avazquez10@mail.sfsu.edu    | [Radian758](https://github.com/Radian758)                |
 
-## NO code needs to be stored in the root of your repository. You may rename the application folder if you like to your team's application name. But all source code related to your team's application should be stored inside the application folder.
+
+## Status
+
+Completed as a course project. 
